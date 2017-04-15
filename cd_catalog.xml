@@ -1,211 +1,211 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CATALOG>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CATALOG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<CD>
-		<TITLE>Empire Burlesque</TITLE>
-		<ARTIST>Bob Dylan</ARTIST>
+		<TITLE>Roses</TITLE>
+		<ARTIST>The Chainsmokers</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1985</YEAR>
+		<COMPANY>Progressive</COMPANY>
+		<PRICE>50</PRICE>
+		<YEAR>2016</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Hide your heart</TITLE>
-		<ARTIST>Bonnie Tyler</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS Records</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1988</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Greatest Hits</TITLE>
-		<ARTIST>Dolly Parton</ARTIST>
+		<TITLE>Runaway</TITLE>
+		<ARTIST>Tritonal</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>RCA</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1982</YEAR>
+		<COMPANY>Progressive</COMPANY>
+		<PRICE>90</PRICE>
+		<YEAR>2015</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Still got the blues</TITLE>
-		<ARTIST>Gary Moore</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Virgin records</COMPANY>
-		<PRICE>10.20</PRICE>
-		<YEAR>1990</YEAR>
+		<TITLE>Shelter</TITLE>
+		<ARTIST>Porter Robinson</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Progressive</COMPANY>
+		<PRICE>75</PRICE>
+		<YEAR>2014</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Eros</TITLE>
-		<ARTIST>Eros Ramazzotti</ARTIST>
+		<TITLE>In My Room</TITLE>
+		<ARTIST>Yellow Claw</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>BMG</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1997</YEAR>
+		<COMPANY>Trap</COMPANY>
+		<PRICE>45</PRICE>
+		<YEAR>2013</YEAR>
 	</CD>
 	<CD>
-		<TITLE>One night only</TITLE>
-		<ARTIST>Bee Gees</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1998</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Sylvias Mother</TITLE>
-		<ARTIST>Dr.Hook</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS</COMPANY>
-		<PRICE>8.10</PRICE>
-		<YEAR>1973</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Maggie May</TITLE>
-		<ARTIST>Rod Stewart</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Pickwick</COMPANY>
-		<PRICE>8.50</PRICE>
-		<YEAR>1990</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Romanza</TITLE>
-		<ARTIST>Andrea Bocelli</ARTIST>
+		<TITLE>Love and War</TITLE>
+		<ARTIST>Yellow Claw</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>10.80</PRICE>
-		<YEAR>1996</YEAR>
+		<COMPANY>Trap</COMPANY>
+		<PRICE>63</PRICE>
+		<YEAR>2016</YEAR>
 	</CD>
 	<CD>
-		<TITLE>When a man loves a woman</TITLE>
-		<ARTIST>Percy Sledge</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
-		<PRICE>8.70</PRICE>
-		<YEAR>1987</YEAR>
+		<TITLE>We Are All We Need</TITLE>
+		<ARTIST>Above &amp; Beyond</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>Trance</COMPANY>
+		<PRICE>58</PRICE>
+		<YEAR>2015</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Black angel</TITLE>
-		<ARTIST>Savage Rose</ARTIST>
+		<TITLE>Crash 2.0</TITLE>
+		<ARTIST>Adventure Club</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Mega</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1995</YEAR>
+		<COMPANY>Bass</COMPANY>
+		<PRICE>21</PRICE>
+		<YEAR>2014</YEAR>
 	</CD>
 	<CD>
-		<TITLE>1999 Grammy Nominees</TITLE>
-		<ARTIST>Many</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Grammy</COMPANY>
-		<PRICE>10.20</PRICE>
-		<YEAR>1999</YEAR>
-	</CD>
-	<CD>
-		<TITLE>For the good times</TITLE>
-		<ARTIST>Kenny Rogers</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Mucik Master</COMPANY>
-		<PRICE>8.70</PRICE>
-		<YEAR>1995</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Big Willie style</TITLE>
-		<ARTIST>Will Smith</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1997</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Tupelo Honey</TITLE>
-		<ARTIST>Van Morrison</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>8.20</PRICE>
-		<YEAR>1971</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Soulsville</TITLE>
-		<ARTIST>Jorn Hoel</ARTIST>
-		<COUNTRY>Norway</COUNTRY>
-		<COMPANY>WEA</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1996</YEAR>
-	</CD>
-	<CD>
-		<TITLE>The very best of</TITLE>
-		<ARTIST>Cat Stevens</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Island</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1990</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Stop</TITLE>
-		<ARTIST>Sam Brown</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>A and M</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1988</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Bridge of Spies</TITLE>
-		<ARTIST>T'Pau</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Siren</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Private Dancer</TITLE>
-		<ARTIST>Tina Turner</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Capitol</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1983</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Midt om natten</TITLE>
-		<ARTIST>Kim Larsen</ARTIST>
+		<TITLE>Tear the Roof Up</TITLE>
+		<ARTIST>Alesso</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Medley</COMPANY>
-		<PRICE>7.80</PRICE>
-		<YEAR>1983</YEAR>
+		<COMPANY>Progressive</COMPANY>
+		<PRICE>28</PRICE>
+		<YEAR>2013</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Pavarotti Gala Concert</TITLE>
-		<ARTIST>Luciano Pavarotti</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>DECCA</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1991</YEAR>
-	</CD>
-	<CD>
-		<TITLE>The dock of the bay</TITLE>
-		<ARTIST>Otis Redding</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Picture book</TITLE>
-		<ARTIST>Simply Red</ARTIST>
+		<TITLE>Save My Night</TITLE>
+		<ARTIST>Armin Van Buuren</ARTIST>
 		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Elektra</COMPANY>
-		<PRICE>7.20</PRICE>
-		<YEAR>1985</YEAR>
+		<COMPANY>Trance</COMPANY>
+		<PRICE>69</PRICE>
+		<YEAR>2016</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Red</TITLE>
-		<ARTIST>The Communards</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>London</COMPANY>
-		<PRICE>7.80</PRICE>
-		<YEAR>1987</YEAR>
+		<TITLE>Say It</TITLE>
+		<ARTIST>Flume</ARTIST>
+		<COUNTRY>AUS</COUNTRY>
+		<COMPANY>Future Bass</COMPANY>
+		<PRICE>36</PRICE>
+		<YEAR>2015</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Unchain my heart</TITLE>
-		<ARTIST>Joe Cocker</ARTIST>
+		<TITLE>Alone</TITLE>
+		<ARTIST>Marshmello</ARTIST>
 		<COUNTRY>USA</COUNTRY>
-		<COMPANY>EMI</COMPANY>
-		<PRICE>8.20</PRICE>
-		<YEAR>1987</YEAR>
+		<COMPANY>Future Bass</COMPANY>
+		<PRICE>74</PRICE>
+		<YEAR>2014</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Transmisson</TITLE>
+		<ARTIST>Zedd</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Progressive</COMPANY>
+		<PRICE>13</PRICE>
+		<YEAR>2013</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Beautiful Now</TITLE>
+		<ARTIST>Zedd</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Progressive</COMPANY>
+		<PRICE>99</PRICE>
+		<YEAR>2016</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Let Me Love You</TITLE>
+		<ARTIST>DJ Snake</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Trap</COMPANY>
+		<PRICE>20</PRICE>
+		<YEAR>2015</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Secrets</TITLE>
+		<ARTIST>Tiesto</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Big Room</COMPANY>
+		<PRICE>36</PRICE>
+		<YEAR>2014</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Byte</TITLE>
+		<ARTIST>Martin Garrix</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Big Room</COMPANY>
+		<PRICE>58</PRICE>
+		<YEAR>2013</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Exploration of Space</TITLE>
+		<ARTIST>Cosmic Gate</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Trance</COMPANY>
+		<PRICE>24</PRICE>
+		<YEAR>2016</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Outside</TITLE>
+		<ARTIST>Calvin Harris</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>Progressive</COMPANY>
+		<PRICE>19</PRICE>
+		<YEAR>2015</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Blue Sky Action</TITLE>
+		<ARTIST>Above &amp; Beyond</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>Trance</COMPANY>
+		<PRICE>69</PRICE>
+		<YEAR>2014</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Counting Down the Days</TITLE>
+		<ARTIST>Above &amp; Beyond</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>Trance</COMPANY>
+		<PRICE>67</PRICE>
+		<YEAR>2013</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Virus</TITLE>
+		<ARTIST>Martin Garrix</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Big Room</COMPANY>
+		<PRICE>37</PRICE>
+		<YEAR>2016</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Turn Down for What</TITLE>
+		<ARTIST>DJ Snake</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Trap</COMPANY>
+		<PRICE>45</PRICE>
+		<YEAR>2015</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Need You</TITLE>
+		<ARTIST>Dillon Francis</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Trap</COMPANY>
+		<PRICE>43</PRICE>
+		<YEAR>2014</YEAR>
+	</CD>
+	<CD>
+		<TITLE>ILYSM</TITLE>
+		<ARTIST>Steve Aoki</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Big Room</COMPANY>
+		<PRICE>54</PRICE>
+		<YEAR>2013</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Don't Leave</TITLE>
+		<ARTIST>Seven Lions</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Dubstep</COMPANY>
+		<PRICE>49</PRICE>
+		<YEAR>2013</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Free the Madness</TITLE>
+		<ARTIST>Steve Aoki</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Big Room</COMPANY>
+		<PRICE>31</PRICE>
+		<YEAR>2014</YEAR>
 	</CD>
 </CATALOG>
